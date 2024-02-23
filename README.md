@@ -17,4 +17,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" />
 </picture>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaokilayout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki)](https://github.com/lucaseduaoki/github-readme-stats)
