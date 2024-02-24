@@ -21,6 +21,6 @@
   </picture>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" />
   </a>
 </div>
