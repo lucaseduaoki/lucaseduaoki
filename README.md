@@ -5,5 +5,16 @@
 - 🏫 IFPR Foz do Iguaçu
 - 📚 Estudante de Técnico em Desenvolvimento de Sistemas
 - 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true&theme=radical)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" />
+</picture>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&size_weight=0.5&count_weight=0.5&theme=radical)
