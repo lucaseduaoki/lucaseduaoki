@@ -5,7 +5,7 @@
 - 🏫 IFPR Foz do Iguaçu
 - 📚 Estudante de Técnico em Desenvolvimento de Sistemas
 
-<div style="display: flex; gap:70px;">
+<div style="display: flex;">
   <picture style="margin-right:70px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true&theme=midnight-purple"
