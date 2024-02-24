@@ -20,6 +20,6 @@
   </picture>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  width=60% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" />
+    <img  width=30% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" />
   </a>
 </div>
