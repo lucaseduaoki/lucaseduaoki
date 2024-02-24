@@ -23,3 +23,8 @@
     <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" />
   </a>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-PyC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="Lucas-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+</div>
