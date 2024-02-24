@@ -19,7 +19,7 @@
     <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" style="vertical-align: top;" />
   </picture>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="vertical-align: top;">
+  <a href="https://github.com/lucaseduaoki/github-readme-stats" style="vertical-align: top;">
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" style="vertical-align: top;" />
   </a>
 </div>
