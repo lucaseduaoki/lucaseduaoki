@@ -7,7 +7,7 @@
 
 
 <div style="margin-bottom: 500px; display: flex; align-items: flex-start;">
-  <picture style="margin-right: 333px;">
+  <picture style="margin-right: 300px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true&theme=midnight-purple"
       media="(prefers-color-scheme: dark)"
@@ -16,11 +16,11 @@
       srcset="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" style="vertical-align: top;" />
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" style="vertical-align: top;" />
   </picture>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" style="vertical-align: top;">
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" style="vertical-align: top;" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&theme=midnight-purple" style="vertical-align: top;" />
   </a>
 </div>
 
