@@ -27,5 +27,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-PyC" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-  <img align="center" alt="Lucas-Py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+  <img align="center" alt="Lucas-Py" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Lucas-Php" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /        
 </div>
