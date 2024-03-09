@@ -1,9 +1,8 @@
-### Eae! Eu sou o Lucas Aoki
+### Hey! I'm Lucas Aoki
 
-- 🔭 Atuo como Dev Back-End
-- 🌱 Estudando Pyhton e seus Frameworks
+- 🔭 I work as a Dev back-end
 - 🏫 IFPR Foz do Iguaçu
-- 📚 Estudante de Técnico em Desenvolvimento de Sistemas
+- 📚 Systems Development Technician Student
 
 
 <div style="margin-bottom: 500px; display: flex; align-items: flex-start;">
