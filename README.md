@@ -7,7 +7,7 @@
     <picture style="margin-right: 30px;">
         <source srcset="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true&theme=midnight-purple" media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: dark)" />
-        <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" />
+        <img width="55%" align="top" padding-bottom: 20px src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true" />
     </picture>
     <a href="https://github.com/lucaseduaoki/github-readme-stats">
         <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&layout=compact&theme=midnight-purple" />
