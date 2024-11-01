@@ -1,6 +1,9 @@
 ### Hey! I'm Lucas Aoki
-🔭 I work as a Back-end Developer  
+
+🔭 I work as a Back-end Developer 
+
 🏫 IFPR Foz do Iguaçu  
+
 📚 Systems Development Technician Student  
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 500px;">
