@@ -1,1 +1,115 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Back-end+Developer;IFPR+Foz+do+Igua%C3%A7u;Systems+Development+Technician+Student" alt="Typing SVG" /> </div> <div align="center"> [![Back-end Developer](https://img.shields.io/badge/Back--end-Developer-blueviolet?style=for-the-badge)](#) [![IFPR](https://img.shields.io/badge/IFPR-Foz%20do%20Igua%C3%A7u-6A1B9A?style=for-the-badge)](#) [![Student](https://img.shields.io/badge/Systems%20Development-Technician%20Student-8E44AD?style=for-the-badge)](#) </div> ## 🚀 About Me - 🔭 Working as a **Back-end Developer** - 🏫 Studying at **IFPR Foz do Iguaçu** - 📚 Systems Development Technician student - 💡 Passionate about APIs, databases, automation, and scalable systems ## 🛠️ Tech Stack <div align="center"> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) </div> ## 📊 GitHub Stats <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&layout=compact&theme=midnight-purple&hide_border=true"/> </div> ## 🌟 Featured Projects - **Service Marketplace Platform** A marketplace for temporary and freelance services connecting businesses and workers. - **Back-end APIs** RESTful APIs with authentication, database integration, and containerized deployment. ## 📫 Connect with Me <div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Aoki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-aoki-0b6734291) [![GitHub](https://img.shields.io/badge/GitHub-lucaseduaoki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucaseduaoki) </div> --- <div align="center"> ✨ *"Code is not just syntax — it's a way to solve real problems and create impact."* </div> <div align="center"> Made with ❤️ by **Lucas Aoki** </div>
+<div align="center">
+
+# 👋 Hey! I'm Lucas Aoki
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Back-end+Developer;Systems+Development+Student;IFPR+Foz+do+Igua%C3%A7u;Always+learning+new+technologies" />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=lucaseduaoki&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🔭 Back-end Developer
+
+🏫 Student at **IFPR Foz do Iguaçu**
+
+📚 Systems Development Technician Student
+
+💡 Passionate about software development, APIs, databases and scalable systems
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgresql,mysql,docker,git,github,vscode,linux" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaseduaoki&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduaoki&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaseduaoki&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lucaseduaoki&theme=discord&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Docker & Containers
+- Spring Boot
+- REST APIs
+- Software Architecture
+- Clean Code
+
+---
+
+## 💼 Featured Project
+
+### 🚀 Service Marketplace Platform
+
+Marketplace platform that connects workers and businesses for temporary and freelance services.
+
+**Main features:**
+
+- User authentication
+- Service publishing
+- Job matching
+- Responsive interface
+- Scalable architecture
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lucas-aoki-0b6734291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lucaseduaoki">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Building solutions through code."
+
+</div>
