@@ -68,8 +68,8 @@
 
 ## 🌱 Currently Learning
 
+- PHP, Python, Java
 - Docker & Containers
-- Spring Boot
 - REST APIs
 - Software Architecture
 - Clean Code
